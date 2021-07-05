@@ -12,6 +12,10 @@
 </ul>
 <h2>🛠 Tech Stack 🛠</h2>
 <div style="display: 'flex'">
-  - asasdas
-  - 123123
+  <div>
+    asdasdasd
+  </div>
+  <div>
+    asdasdasd
+  </div>
 </div>
