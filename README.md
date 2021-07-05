@@ -3,16 +3,12 @@
 <h1>I am Thành 📫📫📫</h1>
 <br/>
 <img src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" width="250">
-<hr/>
-<hr/>
 <h1>😃 About Me 😃</h1>
 <br/>
 - 💻 Software Engineer.
 - 💬 Mentor.
 - ✍️ Codeholic.
 - 🎓 Studied at University of Science.
-<hr/>
-<hr/>
 <h1>😃 About Me 😃</h1>
 <br/>
 
