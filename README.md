@@ -12,10 +12,6 @@
 </ul>
 <h2>🛠 Tech Stack 🛠</h2>
 <div style="display: 'flex'">
-  <div>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" width="50">
-  </div>
-  <div>
          <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" width="50">
-  </div>
 </div>
