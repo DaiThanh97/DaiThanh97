@@ -13,12 +13,15 @@
 </ul>
 <h1>🛠 Tech Stack 🛠</h1>
 <br/>
-<img src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png" width="50">
-<img src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" width="50">
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
-<img src="https://user-images.githubusercontent.com/37551474/121161924-1fbaa380-c856-11eb-82ff-8bcc2249b8b4.png" width="50">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" width="50">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" width="50">
+<div style="display: 'flex'">
+  <img src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png" width="50">
+  <img src="https://cdn.icon-icons.com/icons2/844/PNG/512/CSS3_icon-icons.com_67069.png" width="50">
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
+  <img src="https://user-images.githubusercontent.com/37551474/121161924-1fbaa380-c856-11eb-82ff-8bcc2249b8b4.png" width="50">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" width="50">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_graphql_icon_130564.png" width="50">
+</div>
+
 
 
 
