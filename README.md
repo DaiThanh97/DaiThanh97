@@ -32,6 +32,8 @@
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50">
     </div>
   </li>
+</ul>
+<ul>
   <li>
     <h3>🗂 Database</h3>
     <div style="display: 'flex'">
