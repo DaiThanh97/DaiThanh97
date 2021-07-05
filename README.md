@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey yoo 👋👋👋
+
+### I am **Thành**
+---
+(https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif)
+
+
 
 <!--
 **DaiThanh97/DaiThanh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
