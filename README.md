@@ -36,25 +36,7 @@
       </li>
     </ul>
   </div>
-  <div>
-    <ul>
-      <li>
-        <h3>🗂 Database</h3>
-        <div style="display: 'flex'">
-          <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" width="50">
-          <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50">
-        </div>
-      </li>
-      <li>
-        <h3>🚢 Deployment</h3>
-        <div style="display: 'flex'">
-          <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" width="50">
-          <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" width="50">
-          <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" width="50">
-        </div>
-      </li>
-    </ul>
-  </div>
+  <h1>M</h1>
 </div>
 
 
