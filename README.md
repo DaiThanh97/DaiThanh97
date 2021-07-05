@@ -13,7 +13,7 @@
 </ul>
 <h1>🛠 Tech Stack 🛠</h1>
 <br/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fjavascript-2752148&psig=AOvVaw3DEWfQO7ja6TG6jOL575iS&ust=1625563603659000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCICd7L3Oy_ECFQAAAAAdAAAAABAD" width="50">
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
 
 <!--
 **DaiThanh97/DaiThanh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
