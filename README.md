@@ -14,6 +14,8 @@
 <h1>🛠 Tech Stack 🛠</h1>
 <br/>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" width="50">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" width="50">
+
 
 <!--
 **DaiThanh97/DaiThanh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
