@@ -1,9 +1,9 @@
 ### Hey yoo 👋👋👋
 
-<h3>I am Thành 📫📫📫</h3>
+<h3>You can call me Thành 🌱🌱🌱</h3>
 <br/>
 <img src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" width="250">
-<h3>😃 About Me 😃</h3>
+<h3 style="margin-bottom: 0px">😃 About Me 😃</h3>
 <br/>
 <ul>
   <li>💻 Software Engineer.</li>
