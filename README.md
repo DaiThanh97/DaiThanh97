@@ -2,9 +2,8 @@
 
 <h2>You can call me ✨Thành✨</h2>
 <br/>
-<img src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" width="250">
+<!-- <img src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" width="250"> -->
 <h2>⚡ About Me ⚡</h2>
-<br/>
 <ul>
   <li>💻 Software Engineer.</li>
   <li>✍️ Mentor.</li>
