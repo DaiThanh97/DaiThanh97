@@ -12,7 +12,6 @@
   <li>🎓 Studied at University of Science.</li>
 </ul>
 <h2>🛠 Tech Stack 🛠</h2>
-<br/>
 <ul>
   <li>
     <h3>💻 Backend</h3>
