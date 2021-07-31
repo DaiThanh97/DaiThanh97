@@ -53,4 +53,4 @@
 <div>
   📩 tionguyen97@gmail.com
 </div>
-<a href="mailto:emersonpess011108@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:emersonpess011108@gmail.com?"></a>
