@@ -46,11 +46,11 @@
     </div>
   </li>
 </ul>
-<h2>🤝🏻 Contact Me 🤝🏻</h2>
+<h2>🤝🏻 Connect With Me 🤝🏻</h2>
 <div>
   📢 https://thanhishere.com
 </div>
 <div>
   📩 tionguyen97@gmail.com
 </div>
-
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
