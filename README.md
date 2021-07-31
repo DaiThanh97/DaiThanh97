@@ -47,9 +47,7 @@
   </li>
 </ul>
 <h2>🤝🏻 Connect With Me 🤝🏻</h2>
-<div>
+<div style="d-flex justify-content-center">
   📢 https://thanhishere.com
 </div>
-<p align="center">
-  <a href="mailto:tionguyen97@gmail.com"><img alt="Email" src="https://camo.githubusercontent.com/98caee6d86df91b49ead3694d6398121c5589cbd3b746381f05aac5812184a34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d6875796e6862616f66616b657240676d61696c2e636f6d2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d676d61696c" data-canonical-src="https://img.shields.io/badge/Email-tionguyen97@gmail.com-blue?style=flat-square&amp;logo=gmail" style="max-width:100%;"></a>
-</p>
+
