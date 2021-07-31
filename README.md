@@ -47,5 +47,10 @@
   </li>
 </ul>
 <h2>🤝🏻 Contact Me 🤝🏻</h2>
-📢 [https://thanhishere.com](thanhishere.com)
-📩 tionguyen97@gmail.com
+<div>
+  📢 [https://thanhishere.com]
+</div>
+<div>
+  📩 tionguyen97@gmail.com
+</div>
+
