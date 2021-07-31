@@ -47,7 +47,9 @@
   </li>
 </ul>
 <h2>🤝🏻 Connect With Me 🤝🏻</h2>
-<div style="display: 'flex'; justify-content: 'center'">
-  📢 https://thanhishere.com
+<div style="text-align: 'center'">
+  <div>
+    📢 https://thanhishere.com
+  </div>
 </div>
 
